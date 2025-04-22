@@ -12,9 +12,26 @@ Hush Weather is a Flutter-based weather application that provides real-time weat
 - **Weather Animations**: Display dynamic animations based on weather conditions (e.g., sunny, cloudy, rainy).
 - **Offline Support**: Bookmarked cities are saved locally using `SharedPreferences`.
 
-## Screenshots
+## 📸 Screenshots
 
-*Add screenshots of your app here.*
+### 🌞 Light Mode
+![Light Mode](./screenshots/lightmodeMain.png)
+
+---
+
+### 🌙 Dark Mode
+![Dark Mode](./screenshots/darkmodeMain.png)
+
+---
+
+### ⚙️ Settings Page
+![Settings](./screenshots/settingsPage.png)
+
+---
+
+### 🔖 Bookmarks
+![Bookmarks](./screenshots/bookmarks.png)
+
 
 ## Getting Started
 
